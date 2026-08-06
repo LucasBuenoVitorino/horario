@@ -1,4 +1,4 @@
-# NPI — Núcleo de Programação e Inovação
+# NPI — Núcleo de Práticas de Informática
 
 Repositório dedicado às atividades e organização do **NPI**.
 
@@ -6,7 +6,7 @@ Repositório dedicado às atividades e organização do **NPI**.
 
 O cronograma atualizado da semana (foco no período da tarde, das 14h às 18h) está disponível no arquivo:
 
-➡️ **[cronograma-semanal.md](./cronograma-semanal.md)**
+➡️ **[CRONOGRAMA.md](./CRONOGRAMA.md)**
 
 ### Atividades principais desta semana:
 - **Segunda-feira**: LondrinenseTech + Relatório
@@ -24,7 +24,7 @@ O NPI é um espaço de aprendizado, prática e desenvolvimento em programação 
 
 ## 📂 Estrutura do Repositório
 
-- `cronograma-semanal.md` → Cronograma atualizado da semana
+- `CRONOGRAMA.md` → Cronograma atualizado da semana
 - Outros arquivos e pastas conforme a necessidade do projeto
 
 ---
