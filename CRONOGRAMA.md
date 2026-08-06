@@ -37,7 +37,7 @@
 - **14h – 15:45** → LondrinenseTech
 - **15:45 – 16:20** → Preparar o relatório da aula
 - **16:20 – 18h** → Criar cronograma semanal
-- **Notas: Hoje, estive presente no Londrinesetech, elaborei meu relatório para o portfólio e organizei meu cronograma semanal.** 
+- **Notas: Hoje, estive presente no Londrinensetech, elaborei meu relatório para o portfólio e organizei meu cronograma semanal.** 
 
 ### Terça-feira — 04/08
 - **14h – 15h**  → Realizar Atividade do Marcelo
