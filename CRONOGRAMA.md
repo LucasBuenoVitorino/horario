@@ -10,7 +10,7 @@
 
 - [✅] Participar do LondrinenseTech (Segunda)
 - [✅] Participar do Pensamento Computacional (Quarta)
-- [ ] Participar do Grupo de IA (Sexta)
+- [❌] Participar do Grupo de IA (Sexta)
 - [✅] Entregar os relatórios das aulas
 - [🔄] Realizar curso da Google
 - [✅] Criar cronograma semanal
