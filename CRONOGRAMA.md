@@ -12,8 +12,9 @@
 - [✅] Participar do Pensamento Computacional (Quarta)
 - [ ] Participar do Grupo de IA (Sexta)
 - [✅] Entregar os relatórios das aulas
-- [ ] Realizar curso da Google
+- [🔄] Realizar curso da Google
 - [✅] Criar cronograma semanal
+- [✅] Ajustar o meu GitHub
 
 ---
 
@@ -24,7 +25,7 @@
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   | ✅     |
 | **Terça**    | Atividade do Marcelo         | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   | ✅     |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    | Realizar curso da Google   | ✅     |
-| **Quinta**   | Realizar curso da Google     | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   | ⬜     |
+| **Quinta**   | Realizar curso da Google     | Ajustar o meu perfil do GitHub     | Realizar curso da Google     | Realizar curso da Google   | ⬜     |
 | **Sexta**    | Realizar curso da Google     | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                | ⬜     |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
