@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **03/08/2026**  
+> Atualizado em: **06/08/2026**  
 > Semana: **03/08 → 07/08/2026**
 
 ---
@@ -43,7 +43,7 @@
 ### Terça-feira — 04/08
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas: Hoje eu realizei alguns exercícios da faculdade: https://eduunifilbr-my.sharepoint.com/:w:/g/personal/lucas_brodrigues_edu_unifil_br/IQBvWE5sP6PJRKbI9e-NWG-eASzS0Ba2zhnjYJJTAp0QVs0?e=sYjaWf. Ela consistia em desenvolver alguns programas em Java que criassem e realizassem algumas tarefas com vetores. Consegui finalizar duas oficinas do primeiro módulo do curso Riscos de segurança na nuvem: como identificar e se proteger contra ameaças da certificação Iniciante: Certificado Google Cloud Cybersecurity**
+- **Notas: Hoje eu realizei alguns exercícios da faculdade: https://eduunifilbr-my.sharepoint.com/:w:/g/personal/lucas_brodrigues_edu_unifil_br/IQBvWE5sP6PJRKbI9e-NWG-eASzS0Ba2zhnjYJJTAp0QVs0?e=sYjaWf. Ela consistia em desenvolver alguns programas em Java que criassem e realizassem algumas tarefas com vetores. Consegui finalizar duas oficinas do primeiro módulo do curso Riscos de segurança na nuvem: como identificar e se proteger contra ameaças da certificação Iniciante: Certificado Google Cloud Cybersecurity.**
 
 ### Quarta-feira — 05/08
 - **14h – 16h** → Pensamento Computacional
@@ -53,7 +53,7 @@
 
 ### Quinta-feira — 06/08
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje eu realizei o laboratório do módulo 4 do curso: Riscos de segurança na nuvem: como identificar e se proteger contra ameaças, fiz algumas mudanças no meu perfil do GitHub e encontrei um projeto do protótipo de um jogo que eu havia começado a desenvolver nos últimos meses da escola, acabei fazendo algumas mudanças e aprimoramentos no mesmo "https://space-zone-shooter.netlify.app/".** 
 
 ### Sexta-feira — 07/08
 - **14h – 16:30** → Realizar curso da Google
