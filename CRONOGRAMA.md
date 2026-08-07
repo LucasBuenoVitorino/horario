@@ -26,7 +26,7 @@
 | **Terça**    | Atividade do Marcelo         | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   | ✅     |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    | Realizar curso da Google   | ✅     |
 | **Quinta**   | Realizar curso da Google     | Ajustar o meu perfil do GitHub     | Aprimorar um prototipo antigo| Realizar curso da Google   | ✅     |
-| **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                | ⬜     |
+| **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                | ✅     |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -58,7 +58,7 @@
 ### Sexta-feira — 07/08
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu realizei alguns exercícios de Java, finalizei o módulo 4 do curso: Riscos de segurança na nuvem: como identificar e se proteger contra ameaças e participei de uma apresentação da EQUINORTE.** 
 
 ---
 
@@ -69,8 +69,8 @@
 - [ ] Participar do Grupo de IA
 - [ ] Realizar curso da Google
 - [x] Criar cronograma semanal
-- [ ] Revisar o que foi feito no final da semana
-- [ ] Planejar a próxima semana
+- [x] Revisar o que foi feito no final da semana
+- [x] Planejar a próxima semana
 
 ---
 
