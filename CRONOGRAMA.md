@@ -58,7 +58,7 @@
 ### Sexta-feira — 07/08
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas: Hoje eu realizei alguns exercícios de Java, finalizei o módulo 4 do curso: Riscos de segurança na nuvem: como identificar e se proteger contra ameaças e participei de uma apresentação da EQUINORTE.** 
+- **Notas: Hoje eu realizei alguns exercícios de Java: https://docs.google.com/document/d/1WANYF0uvHmI0aIJZHm8OVlF0Tb3VIkAdGQ3LnEblqrc/edit?usp=drivesdk, finalizei o módulo 4 do curso: Riscos de segurança na nuvem: como identificar e se proteger contra ameaças e participei de uma apresentação da EQUINORTE.** 
 
 ---
 
