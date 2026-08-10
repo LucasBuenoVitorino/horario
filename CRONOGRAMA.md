@@ -33,28 +33,28 @@
 
 ## 📝 Detalhamento Diário (14h – 18h)
 
-### Segunda-feira — 03/08
+### Segunda-feira — 10/08
 - **14h – 15:45** → LondrinenseTech
 - **15:45 – 16:20** → Preparar o relatório da aula
 - **16:20 – 18h** → Criar cronograma semanal
 - **Notas: Hoje, participei do Londrinensetech, elaborei meu relatório para o portfólio e organizei meu cronograma semanal.** 
 
-### Terça-feira — 04/08
+### Terça-feira — 11/08
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
 - **Notas:**
 
-### Quarta-feira — 05/08
+### Quarta-feira — 12/08
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
 - **Notas:** 
 
-### Quinta-feira — 06/08
+### Quinta-feira — 13/08
 - **14h – 18h** → Realizar curso da Google
 - **Notas:** 
 
-### Sexta-feira — 07/08
+### Sexta-feira — 14/08
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
 - **Notas:** 
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 03/08/2026*
+*Última atualização: 10/08/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
