@@ -65,8 +65,8 @@
 
 - [] Participar do LondrinenseTech e fazer o relatório
 - [] Participar do Pensamento Computacional e fazer o relatório
-- [ ] Participar do Grupo de IA
-- [ ] Realizar curso da Google
+- [] Participar do Grupo de IA
+- [] Realizar curso da Google
 - [] Criar cronograma semanal
 - [] Revisar o que foi feito no final da semana
 - [] Planejar a próxima semana
