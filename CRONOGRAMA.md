@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **10/08/2026**  
+> Atualizado em: **11/08/2026**  
 > Semana: **10/08 → 14/08/2026**
 
 ---
@@ -21,8 +21,8 @@
 
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
-| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |        |
-| **Terça**    | Atividade do Jira            | Atividade do Jira                  | Atividade do Jira            | Atividade do Jira          |        |
+| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ✅   |
+| **Terça**    | Atividade do Jira            | Atividade do Jira                  | Atividade do Jira            | Atividade do Jira          |   🔄   |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    | Pesquisa para um Solveathon|        |
 | **Quinta**   | Pesquisa para um Solveathon  | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
@@ -42,7 +42,7 @@
 ### Terça-feira — 11/08
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje realizei algumas atividades da faculdade, resolvi alguns exercícios em Java: https://docs.google.com/document/d/1sewVr40GkjeWPTM_iYdhL3jjFsnKU_25PPqcLyx6r_Y/edit?usp=sharing, comecei a aprender algumas funcionalidades da plataforma Jira e assisti à abertura da incubadora da UniFil.**
 
 ### Quarta-feira — 12/08
 - **14h – 16h** → Pensamento Computacional
