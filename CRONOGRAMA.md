@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **11/08/2026**  
+> Atualizado em: **12/08/2026**  
 > Semana: **10/08 → 14/08/2026**
 
 ---
@@ -48,7 +48,7 @@
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje participei do Pensamento Computacional, finalizei o meu relatório, terminei os exercícios de Java da atividade do professor Marcelo: https://docs.google.com/document/d/1sewVr40GkjeWPTM_iYdhL3jjFsnKU_25PPqcLyx6r_Y/edit?usp=sharing e enviei meu trabalho de metodologias ágeis no Jira.** 
 
 ### Quinta-feira — 13/08
 - **14h – 18h** → Realizar curso da Google
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 10/08/2026*
+*Última atualização: 12/08/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
