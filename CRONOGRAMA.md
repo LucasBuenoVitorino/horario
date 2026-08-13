@@ -52,7 +52,7 @@
 
 ### Quinta-feira — 13/08
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje resolvi uma atividade de Java que abordava os conteúdos de sobrecarga e sobrescrita: https://docs.google.com/document/d/10SvlIbiEUOZzAMTIDNKZBwtI3T9kauhgr2-Q2nNJmho/edit?usp=sharing. Fiz uma pesquisa sobre mercado de créditos, perfis de empresas e tentei realizar dois laboratórios da certificação Riscos de segurança na nuvem: como identificar e se proteger contra ameaças, mas os dois laboratórios em algum momento não estavam funcionando corretamente, precisei mandar um feedback para a Google.skills e espero conseguir finalizar os mesmos posteriormente.** 
 
 ### Sexta-feira — 14/08
 - **14h – 16:30** → Realizar curso da Google
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 12/08/2026*
+*Última atualização: 13/08/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
