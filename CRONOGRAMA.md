@@ -1,19 +1,19 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **12/08/2026**  
+> Atualizado em: **13/08/2026**  
 > Semana: **10/08 → 14/08/2026**
 
 ---
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
 - [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
+- [x] Entregar os relatórios das aulas
 - [] Realizar curso da Google
-- [] Criar cronograma semanal
+- [x] Criar cronograma semanal
 
 ---
 
@@ -23,7 +23,7 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ✅   |
 | **Terça**    | Atividade do Jira            | Atividade do Jira                  | Atividade do Jira            | Atividade do Jira          |   🔄   |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    | Pesquisa para um Solveathon|        |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    | Pesquisa para um Solveathon|   ✅   |
 | **Quinta**   | Pesquisa para um Solveathon  | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
 
@@ -63,11 +63,11 @@
 
 ## ✅ Checklist da Semana
 
-- [] Participar do LondrinenseTech e fazer o relatório
-- [] Participar do Pensamento Computacional e fazer o relatório
+- [x] Participar do LondrinenseTech e fazer o relatório
+- [x] Participar do Pensamento Computacional e fazer o relatório
 - [] Participar do Grupo de IA
 - [] Realizar curso da Google
-- [] Criar cronograma semanal
+- [x] Criar cronograma semanal
 - [] Revisar o que foi feito no final da semana
 - [] Planejar a próxima semana
 
