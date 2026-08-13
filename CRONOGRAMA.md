@@ -95,13 +95,13 @@
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [✅] Participar do LondrinenseTech (Segunda)
-- [✅] Participar do Pensamento Computacional (Quarta)
-- [❌] Participar do Grupo de IA (Sexta)
-- [✅] Entregar os relatórios das aulas
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do Grupo de IA (Sexta)
+- [x] Entregar os relatórios das aulas
 - [🔄] Realizar curso da Google
-- [✅] Criar cronograma semanal
-- [✅] Ajustar o meu GitHub
+- [x] Criar cronograma semanal
+- [x] Ajustar o meu GitHub
 
 ---
 
