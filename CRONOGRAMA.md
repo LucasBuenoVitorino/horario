@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **13/08/2026**  
+> Atualizado em: **14/08/2026**  
 > Semana: **10/08 → 14/08/2026**
 
 ---
@@ -10,9 +10,9 @@
 
 - [x] Participar do LondrinenseTech (Segunda)
 - [x] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
+- [❌] Participar do Grupo de IA (Sexta)
 - [x] Entregar os relatórios das aulas
-- [] Realizar curso da Google
+- [🔄] Realizar curso da Google
 - [x] Criar cronograma semanal
 
 ---
@@ -24,8 +24,8 @@
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ✅   |
 | **Terça**    | Atividade do Jira            | Atividade do Jira                  | Atividade do Jira            | Atividade do Jira          |   🔄   |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    | Pesquisa para um Solveathon|   ✅   |
-| **Quinta**   | Pesquisa para um Solveathon  | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
-| **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Quinta**   | Pesquisa para um Solveathon  | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |   ✅   |
+| **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |   ✅   |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -57,7 +57,7 @@
 ### Sexta-feira — 14/08
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje finalizei as avaliações das ucd's: Clique para adicionar Gerência de Requisitos: Artefatos de Software ao menu de cursos.	Gerência de Requisitos: Artefatos de Software e Hierarquia de Sistemas, realizei alguns exercícios de álgebra sobre matrizes e fiz uma pesquisa sobre diferentes tipos de artigos científicos, procurando por artigos que mencionavam as melhores metodologias a se seguir.** 
 
 ---
 
@@ -68,8 +68,8 @@
 - [] Participar do Grupo de IA
 - [] Realizar curso da Google
 - [x] Criar cronograma semanal
-- [] Revisar o que foi feito no final da semana
-- [] Planejar a próxima semana
+- [x] Revisar o que foi feito no final da semana
+- [x] Planejar a próxima semana
 
 ---
 
