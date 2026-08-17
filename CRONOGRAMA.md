@@ -8,12 +8,12 @@
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
+- [x] Participar do LondrinenseTech (Segunda)
 - [] Participar do Pensamento Computacional (Quarta)
 - [] Participar do Grupo de IA (Sexta)
 - [] Entregar os relatórios das aulas
 - [] Realizar curso da Google
-- [] Criar cronograma semanal
+- [x] Criar cronograma semanal
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
-| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |        |
+| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ✅   |
 | **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |        |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    | Pesquisa para um Solveathon|        |
 | **Quinta**   | Pesquisa para um Solveathon  | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
@@ -37,7 +37,7 @@
 - **14h – 15:45** → LondrinenseTech
 - **15:45 – 16:20** → Preparar o relatório da aula
 - **16:20 – 18h** → Criar cronograma semanal
-- **Notas:** 
+- **Notas: Hoje, participei do Londrinensetech, elaborei meu relatório para o portfólio, organizei meu cronograma semanal e finalizei a entrega do segundo checkpoint do Solveathon do Sescap.** 
 
 ### Terça-feira — 18/08
 - **14h – 15h**  → Realizar Atividade do Marcelo
