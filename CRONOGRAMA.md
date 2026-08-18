@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **17/08/2026**  
+> Atualizado em: **18/08/2026**  
 > Semana: **17/08 → 21/08/2026**
 
 ---
@@ -22,7 +22,7 @@
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅  |
-| **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |        |
+| **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |    ✅  |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    | Pesquisa para um Solveathon|        |
 | **Quinta**   | Pesquisa para um Solveathon  | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
@@ -42,7 +42,7 @@
 ### Terça-feira — 18/08
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje realizei duas atividades de álgebra sobre matriz inversa e matriz transposta e realizei um exercício de Java sobre construtor, sobrecarga, sobrescrita e herança**
 
 ### Quarta-feira — 19/08
 - **14h – 16h** → Pensamento Computacional
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 17/08/2026*
+*Última atualização: 18/08/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
