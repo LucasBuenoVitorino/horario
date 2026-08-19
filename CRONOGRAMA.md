@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **18/08/2026**  
+> Atualizado em: **19/08/2026**  
 > Semana: **17/08 → 21/08/2026**
 
 ---
@@ -9,9 +9,9 @@
 ## 🎯 Objetivos da Semana (foco na tarde)
 
 - [x] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do Pensamento Computacional (Quarta)
 - [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
+- [x] Entregar os relatórios das aulas
 - [] Realizar curso da Google
 - [x] Criar cronograma semanal
 
@@ -48,7 +48,7 @@
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje participei do Pensamento Computacional, finalizei o meu relatório, finalizei a minha atividade que eu não tinha concluído ontem. https://docs.google.com/document/d/1oKWAtwvLPUKTlKS96fXe9k0i4HOdgPBq_CDxy2B0AoU/edit?usp=sharing** 
 
 ### Quinta-feira — 20/08
 - **14h – 18h** → Realizar curso da Google
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 18/08/2026*
+*Última atualização: 19/08/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
