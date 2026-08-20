@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **19/08/2026**  
+> Atualizado em: **20/08/2026**  
 > Semana: **17/08 → 21/08/2026**
 
 ---
@@ -23,8 +23,8 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅  |
 | **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |    ✅  |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    | Pesquisa para um Solveathon|        |
-| **Quinta**   | Pesquisa para um Solveathon  | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    | Pesquisa para um Solveathon|   ✅   |
+| **Quinta**   | Pesquisa para um Solveathon  | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |    🔄    |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -48,11 +48,11 @@
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas: Hoje participei do Pensamento Computacional, finalizei o meu relatório, finalizei a minha atividade que eu não tinha concluído ontem. https://docs.google.com/document/d/1oKWAtwvLPUKTlKS96fXe9k0i4HOdgPBq_CDxy2B0AoU/edit?usp=sharing** 
-
+- **Notas: Hoje participei do Pensamento Computacional, finalizei o meu relatório, finalizei a minha atividade que eu não tinha concluído ontem. https://docs.google.com/document/d/1oKWAtwvLPUKTlKS96fXe9k0i4HOdgPBq_CDxy2B0AoU/edit?usp=sharing**
+- 
 ### Quinta-feira — 20/08
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje eu realizei o laboratório do módulo 2 do curso "Riscos de segurança na nuvem: como identificar e se proteger contra ameaças". Quase finalizei o laboratório do módulo 3, mas fui impedido por causa da falta de uma biblioteca que não estava instalada na máquina virtual e comecei a realizar o curso Atividade Prática: Preparação para um trabalho de analista de segurança em nuvem.** 
 
 ### Sexta-feira — 21/08
 - **14h – 16:30** → Realizar curso da Google
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 19/08/2026*
+*Última atualização: 20/08/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
