@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **20/08/2026**  
+> Atualizado em: **21/08/2026**  
 > Semana: **17/08 → 21/08/2026**
 
 ---
@@ -10,9 +10,9 @@
 
 - [x] Participar do LondrinenseTech (Segunda)
 - [x] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
+- [❌] Participar do Grupo de IA (Sexta)
 - [x] Entregar os relatórios das aulas
-- [] Realizar curso da Google
+- [🔄] Realizar curso da Google
 - [x] Criar cronograma semanal
 
 ---
@@ -57,18 +57,18 @@
 ### Sexta-feira — 21/08
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu finalizei o módulo 1 do curso: Como detectar, responder e recuperar-se de ataques de cibersegurança na nuvem, organizei todos os meus certificados para matar horas complementares e comecei a fazer um exercício de Java do professor Marcelo relacionado a vetores e matrizes.** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- [] Participar do LondrinenseTech e fazer o relatório
-- [] Participar do Pensamento Computacional e fazer o relatório
+- [x] Participar do LondrinenseTech e fazer o relatório
+- [x] Participar do Pensamento Computacional e fazer o relatório
 - [] Participar do Grupo de IA
 - [] Realizar curso da Google
-- [] Criar cronograma semanal
-- [] Revisar o que foi feito no final da semana
+- [x] Criar cronograma semanal
+- [x] Revisar o que foi feito no final da semana
 - [] Planejar a próxima semana
 
 ---
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 20/08/2026*
+*Última atualização: 21/08/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
