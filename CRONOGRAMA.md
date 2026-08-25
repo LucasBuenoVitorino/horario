@@ -42,7 +42,7 @@
 ### Terça-feira — 25/08
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas: Hoje, dei continuidade ao curso: Como detectar, responder e recuperar-se de ataques de cibersegurança na nuvem, realizei o laboratório Análise dos falsos positivos pela detecção de incidentes**
+- **Notas: Hoje, dei continuidade ao curso: Como detectar, responder e recuperar-se de ataques de cibersegurança na nuvem. Realizei os laboratórios Identificar a diferença entre a atividade normal e um incidente, Análise dos falsos positivos pela detecção de incidentes, e pesquisei uma breve revisão sobre burndown e velocity métricas aplicadas em metodologias com Scrum para uma atividade do professor Matheus.**
 
 ### Quarta-feira — 26/08
 - **14h – 16h** → Pensamento Computacional
