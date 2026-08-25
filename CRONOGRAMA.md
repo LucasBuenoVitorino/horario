@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **24/08/2026**  
+> Atualizado em: **25/08/2026**  
 > Semana: **24/08 → 28/08/2026**
 
 ---
@@ -42,7 +42,7 @@
 ### Terça-feira — 25/08
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje, dei continuidade ao curso: Como detectar, responder e recuperar-se de ataques de cibersegurança na nuvem, realizei o laboratório Análise dos falsos positivos pela detecção de incidentes**
 
 ### Quarta-feira — 26/08
 - **14h – 16h** → Pensamento Computacional
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 24/08/2026*
+*Última atualização: 25/08/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
