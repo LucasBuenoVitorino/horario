@@ -1,19 +1,19 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **25/08/2026**  
+> Atualizado em: **26/08/2026**  
 > Semana: **24/08 → 28/08/2026**
 
 ---
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
 - [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
+- [x] Entregar os relatórios das aulas
 - [] Realizar curso da Google
-- [] Criar cronograma semanal
+- [x] Criar cronograma semanal
 
 ---
 
@@ -21,9 +21,9 @@
 
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
-| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |        |
-| **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |        |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
+| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ✅     |
+| **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |   ✅     |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
 | **Quinta**   |  Realizar curso da Google    | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
 
@@ -48,7 +48,7 @@
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje participei do Pensamento Computacional, finalizei o meu relatório e terminei a primeira parte de uma atividade de java sobre composição e agregação: https://docs.google.com/document/d/1yIhNBHbH51tsqeeZi27C8nzWnQBD0IxQzLSe_gBRyuQ/edit?usp=sharing**
 - 
 ### Quinta-feira — 27/08
 - **14h – 18h** → Realizar curso da Google
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 25/08/2026*
+*Última atualização: 26/08/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
