@@ -52,7 +52,7 @@
 - 
 ### Quinta-feira — 27/08
 - **14h – 18h** → Realizar curso da Google
-- **Notas: Hoje finalizei uma atividade de java do professor Marcelo sobre herança e encapulamento: https://docs.google.com/document/d/12LAGlFTWuIPg2jQvU3d5cAeF3_k2AXJ6akk5sAAajWU/edit?usp=sharing** 
+- **Notas: Hoje finalizei uma atividade de Java do professor Marcelo sobre herança e encapsulamento: https://docs.google.com/document/d/12LAGlFTWuIPg2jQvU3d5cAeF3_k2AXJ6akk5sAAajWU/edit?usp=sharing, li metade de um artigo científico: 10.11124/JBIES-20-00167 e revisei os conteúdos de modelo cascata, velocity e burndown para uma atividade da faculdade.** 
 
 ### Sexta-feira — 28/08
 - **14h – 16:30** → Realizar curso da Google
