@@ -57,7 +57,7 @@
 ### Sexta-feira — 28/08
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas: Hoje eu finalizei a minha leitura do artigo 10.11124/JBIES-20-00167 falando sobre a atualização da forma de aplicar a metodologia Scoring Review, utilizei o notebook inteligência artificial do gemini para criar um material para estudo...** 
+- **Notas: Hoje eu finalizei a leitura do artigo 10.11124/JBIES-20-00167, que falando sobre a atualização da forma de aplicar a metodologia Scoring Review. Utilizei o notebook de inteligência artificial do Gemini para criar um material de estudo. Iniciei o módulo 3 do curso: Como detectar, responder e recuperar-se de ataques de cibersegurança na nuvem, e fiz metade de uma atividade de Java sobre funções da classe String.** 
 
 ---
 
