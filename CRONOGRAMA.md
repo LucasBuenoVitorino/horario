@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **26/08/2026**  
+> Atualizado em: **27/08/2026**  
 > Semana: **24/08 → 28/08/2026**
 
 ---
@@ -10,9 +10,9 @@
 
 - [x] Participar do LondrinenseTech (Segunda)
 - [x] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
+- [❌] Participar do Grupo de IA (Sexta)
 - [x] Entregar os relatórios das aulas
-- [] Realizar curso da Google
+- [🔄] Realizar curso da Google
 - [x] Criar cronograma semanal
 
 ---
@@ -24,7 +24,7 @@
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ✅     |
 | **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |   ✅     |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
-| **Quinta**   |  Realizar curso da Google    | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
+| **Quinta**   |  Realizar curso da Google    | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |    ✅    |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -57,18 +57,18 @@
 ### Sexta-feira — 28/08
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu finalizei a minha leitura do artigo 10.11124/JBIES-20-00167 falando sobre a atualização da forma de aplicar a metodologia Scoping Review, utilizei o notebook inteligência artificial do gemini para criar um material para estudo...** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- [] Participar do LondrinenseTech e fazer o relatório
-- [] Participar do Pensamento Computacional e fazer o relatório
+- [x] Participar do LondrinenseTech e fazer o relatório
+- [x] Participar do Pensamento Computacional e fazer o relatório
 - [] Participar do Grupo de IA
 - [] Realizar curso da Google
-- [] Criar cronograma semanal
-- [] Revisar o que foi feito no final da semana
+- [x] Criar cronograma semanal
+- [x] Revisar o que foi feito no final da semana
 - [] Planejar a próxima semana
 
 ---
