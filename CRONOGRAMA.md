@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **31/08/2026**  
+> Atualizado em: **01/09/2026**  
 > Semana: **31/08 → 04/09/2026**
 
 ---
@@ -22,7 +22,7 @@
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅    |
-| **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |        |
+| **Terça**    | Atividade de depuração       | Atividade de depuração             | Atividade de depuração       |Atividade de depuração      |   🔄     |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
 | **Quinta**   |  Realizar curso da Google    | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
@@ -42,7 +42,7 @@
 ### Terça-feira — 01/08
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje aproveitei para realizar um trabalho de depuração de código, em que eu deveria corrigir um projeto de locadora criado pelo professor, falar sobre cada método se estava certo ou errado e fazer um Javadoc. fiz a maior parte do projeto, mas faltou terminar o Javadoc.**
 
 ### Quarta-feira — 02/08
 - **14h – 16h** → Pensamento Computacional
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 31/08/2026*
+*Última atualização: 01/09/2026*
 
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
