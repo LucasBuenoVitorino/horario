@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **01/09/2026**  
+> Atualizado em: **02/09/2026**  
 > Semana: **31/08 → 04/09/2026**
 
 ---
@@ -23,7 +23,7 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅    |
 | **Terça**    | Atividade de depuração       | Atividade de depuração             | Atividade de depuração       |Atividade de depuração      |   🔄     |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
 | **Quinta**   |  Realizar curso da Google    | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
 
@@ -48,7 +48,7 @@
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje participei do Pensamento Computacional, finalizei o meu relatório e dei continuidade ao 3º módulo do curso: Como detectar, responder e recuperar-se de ataques de cibersegurança na nuvem.**
 - 
 ### Quinta-feira — 03/08
 - **14h – 18h** → Realizar curso da Google
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 01/09/2026*
+*Última atualização: 02/09/2026*
 
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
