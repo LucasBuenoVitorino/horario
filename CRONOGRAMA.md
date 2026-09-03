@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **02/09/2026**  
+> Atualizado em: **03/09/2026**  
 > Semana: **31/08 → 04/09/2026**
 
 ---
@@ -52,7 +52,7 @@
 - 
 ### Quinta-feira — 03/08
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: hoje eu finalizei um atividade de depuração, correção e docmentação(javadoc), terminei a segunda parte de uma atividade de java sobre polimorfismo e conclui o 3° modulo do curso: Como detectar, responder e recuperar-se de ataques de cibersegurança na nuvem.** 
 
 ### Sexta-feira — 04/08
 - **14h – 16:30** → Realizar curso da Google
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 02/09/2026*
+*Última atualização: 03/09/2026*
 
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
