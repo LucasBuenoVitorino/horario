@@ -1,19 +1,19 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **03/09/2026**  
+> Atualizado em: **04/09/2026**  
 > Semana: **31/08 → 04/09/2026**
 
 ---
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Realizar curso da Google
-- [] Criar cronograma semanal
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do Grupo de IA (Sexta)
+- [x] Entregar os relatórios das aulas
+- [🔄] Realizar curso da Google
+- [x] Criar cronograma semanal
 
 ---
 
@@ -24,8 +24,8 @@
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅    |
 | **Terça**    | Atividade de depuração       | Atividade de depuração             | Atividade de depuração       |Atividade de depuração      |   🔄     |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
-| **Quinta**   |  Realizar curso da Google    | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
-| **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Quinta**   |  Realizar curso da Google    | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |   ✅     |
+| **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |   ✅     |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -57,18 +57,18 @@
 ### Sexta-feira — 04/08
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu li um artigo sobre tipos de revisão e implementação de revisão sistemática: https://doi.org/10.1146/annurev-psych-010418-102803 e participei do grupo de IA com o professor Eron, falando sobre o novo direcionamento das nossas pesquisas e objetivos.** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- [] Participar do LondrinenseTech e fazer o relatório
-- [] Participar do Pensamento Computacional e fazer o relatório
-- [] Participar do Grupo de IA
+- [x] Participar do LondrinenseTech e fazer o relatório
+- [x] Participar do Pensamento Computacional e fazer o relatório
+- [x] Participar do Grupo de IA
 - [] Realizar curso da Google
-- [] Criar cronograma semanal
-- [] Revisar o que foi feito no final da semana
+- [x] Criar cronograma semanal
+- [x] Revisar o que foi feito no final da semana
 - [] Planejar a próxima semana
 
 ---
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 03/09/2026*
+*Última atualização: 04/09/2026*
 
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
