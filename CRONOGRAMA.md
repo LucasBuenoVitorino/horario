@@ -1,6 +1,94 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
+> Atualizado em: **08/09/2026**  
+> Semana: **07/09 → 11/09/2026**
+
+---
+
+## 🎯 Objetivos da Semana (foco na tarde)
+
+- [] Participar do LondrinenseTech (Segunda)
+- [] Participar do Pensamento Computacional (Quarta)
+- [] Participar do Grupo de IA (Sexta)
+- [] Entregar os relatórios das aulas
+- [] Realizar curso da Google
+- [] Criar cronograma semanal
+
+---
+
+## 📆 Cronograma da Tarde (14h – 18h)
+
+| Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
+|--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
+| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |     ✅   |
+| **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |        |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
+| **Quinta**   |  Realizar curso da Google    | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
+| **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
+
+> **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
+
+---
+## 📝 Detalhamento Diário (14h – 18h)
+
+### Segunda-feira — 07/09
+- **14h – 15:45** → LondrinenseTech
+- **15:45 – 16:20** → Preparar o relatório da aula
+- **16:20 – 18h** → Criar cronograma semanal
+- **Notas: Não houve nenhuma atividade por conta do feriado.** 
+
+### Terça-feira — 08/09
+- **14h – 15h**  → Realizar Atividade do Marcelo
+- **15h – 18h** → Realizar curso da Google
+- **Notas: Hoje, estudei para a matéria de gerenciamento de projetos para uma prova sobre Scrum, metodologias ágeis, documentação... e fiz uma revisão sobre depuração, ferramentas do IntelliJ e Javadoc.**
+
+### Quarta-feira — 09/09
+- **14h – 16h** → Pensamento Computacional
+- **16h – 16:20** → Realizar o relatório da aula
+- **16:20 – 18h** → Realizar curso da Google
+- **Notas:**
+- 
+### Quinta-feira — 10/09
+- **14h – 18h** → Realizar curso da Google
+- **Notas:** 
+
+### Sexta-feira — 11/09
+- **14h – 16:30** → Realizar curso da Google
+- **16:30 – 18h** → Grupo de IA
+- **Notas:** 
+
+---
+
+## ✅ Checklist da Semana
+
+- [] Participar do LondrinenseTech e fazer o relatório
+- [] Participar do Pensamento Computacional e fazer o relatório
+- [] Participar do Grupo de IA
+- [] Realizar curso da Google
+- [] Criar cronograma semanal
+- [] Revisar o que foi feito no final da semana
+- [] Planejar a próxima semana
+
+---
+
+## 📌 Observações
+
+- Relatórios devem ser feitos logo após as aulas (Segunda e Quarta)
+-  
+-  
+
+---
+
+*Última atualização: 08/09/2026*
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# NPI
+# 📅 Cronograma Semanal — Tarde (14h às 18h)
+
 > Atualizado em: **04/09/2026**  
 > Semana: **31/08 → 04/09/2026**
 
@@ -110,7 +198,7 @@
 | **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |   ✅     |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
 | **Quinta**   |  Realizar curso da Google    | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |    ✅    |
-| **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |    ✅    |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
