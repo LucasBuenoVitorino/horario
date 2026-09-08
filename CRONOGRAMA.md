@@ -12,7 +12,6 @@
 - [] Participar do Pensamento Computacional (Quarta)
 - [] Participar do Grupo de IA (Sexta)
 - [] Entregar os relatórios das aulas
-- [] Realizar curso da Google
 - [] Criar cronograma semanal
 
 ---
@@ -22,9 +21,9 @@
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |     ✅   |
-| **Terça**    | Checkpoint (Sescap)          | Atividade de álgebra               | Atividade de álgebra         | Atividade de Java          |        |
+| **Terça**    | Estudar para provas          | Estudar para provas                | Estudar para provas           | Estudar para provas       |        |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
-| **Quinta**   |  Realizar curso da Google    | Realizar curso da Google           | Realizar curso da Google     | Realizar curso da Google   |        |
+| **Quinta**   | Estudar para provas          | Estudar para provas                | Estudar para provas           | Estudar para provas       |        |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
