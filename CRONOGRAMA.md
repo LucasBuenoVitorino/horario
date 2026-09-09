@@ -46,7 +46,7 @@
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje participei do Pensamento Computacional, finalizei o meu relatório e revisei os conteudos para uma prova de depuração, documentação e outra de POO.**
 - 
 ### Quinta-feira — 10/09
 - **14h – 18h** → Realizar curso da Google
