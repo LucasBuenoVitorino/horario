@@ -22,7 +22,7 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |     ✅   |
 | **Terça**    | Estudar para provas          | Estudar para provas                | Estudar para provas           | Estudar para provas       |     ✅   |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
 | **Quinta**   | Estudar para provas          | Estudar para provas                | Estudar para provas           | Estudar para provas       |        |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
 
