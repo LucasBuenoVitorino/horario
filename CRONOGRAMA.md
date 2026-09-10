@@ -1,18 +1,19 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **08/09/2026**  
+> Atualizado em: **10/09/2026**  
 > Semana: **07/09 → 11/09/2026**
 
 ---
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
 - [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Criar cronograma semanal
+- [x] Entregar os relatórios das aulas
+- [x] Criar cronograma semanal
+- [ ] Estudar para as provas
 
 ---
 
@@ -23,7 +24,7 @@
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |     ✅   |
 | **Terça**    | Estudar para provas          | Estudar para provas                | Estudar para provas           | Estudar para provas       |     ✅   |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
-| **Quinta**   | Estudar para provas          | Estudar para provas                | Estudar para provas           | Estudar para provas       |        |
+| **Quinta**   | Estudar para provas          | Estudar para provas                | Estudar para provas           | Estudar para provas       |    ✅    |
 | **Sexta**    | Atividade do Marcelo         | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -50,7 +51,7 @@
 - 
 ### Quinta-feira — 10/09
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje eu revisei estruturas de dados e subrotinas no Java e revisei Scrum suas metricas, eventos, membros entre outros.** 
 
 ### Sexta-feira — 11/09
 - **14h – 16:30** → Realizar curso da Google
