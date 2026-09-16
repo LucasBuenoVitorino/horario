@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **14/09/2026**  
+> Atualizado em: **16/09/2026**  
 > Semana: **14/09 → 18/09/2026**
 
 ---
@@ -22,7 +22,7 @@
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅    |
-| **Terça**    | Estudar para provas          | Estudar para provas                | Estudar para provas          | Estudar para provas        |        |
+| **Terça**    | Estudar para provas          | Estudar para provas                | Estudar para provas          | Estudar para provas        |    ✅    |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
 | **Quinta**   | Realizar curso da Google     | Realizar curso da Google           | Realizar curso da Google     | Estudar para provas        |        |
 | **Sexta**    | Realizar curso da Google     | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
@@ -41,7 +41,7 @@
 ### Terça-feira — 08/09
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje eu fiquei estudando para uma prova de álgebra sobre sistemas lineares**
 
 ### Quarta-feira — 09/09
 - **14h – 16h** → Pensamento Computacional
