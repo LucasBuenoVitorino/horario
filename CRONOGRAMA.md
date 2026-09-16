@@ -23,7 +23,7 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅    |
 | **Terça**    | Estudar para provas          | Estudar para provas                | Estudar para provas          | Estudar para provas        |    ✅    |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |  ✅      |
 | **Quinta**   | Realizar curso da Google     | Realizar curso da Google           | Realizar curso da Google     | Estudar para provas        |        |
 | **Sexta**    | Realizar curso da Google     | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
 
@@ -47,7 +47,7 @@
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje participei do Pensamento Computacional, finalizei o meu relatório e quase finalizei o 4º módulo do curso Como detectar, responder e recuperar-se de ataques de cibersegurança na nuvem.**
 - 
 ### Quinta-feira — 10/09
 - **14h – 18h** → Realizar curso da Google
