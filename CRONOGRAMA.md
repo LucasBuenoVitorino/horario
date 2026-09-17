@@ -24,7 +24,7 @@
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅    |
 | **Terça**    | Estudar para provas          | Estudar para provas                | Estudar para provas          | Estudar para provas        |    ✅    |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |  ✅      |
-| **Quinta**   | Realizar curso da Google     | Realizar curso da Google           | Realizar curso da Google     | Estudar para provas        |        |
+| **Quinta**   | Realizar curso da Google     | Realizar curso da Google           | Realizar curso da Google     | Estudar para provas        |   ✅     |
 | **Sexta**    | Realizar curso da Google     | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -51,7 +51,7 @@
 - 
 ### Quinta-feira — 10/09
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje eu finalizei os conteúdos do 4º módulo do curso Como detectar, responder e recuperar-se de ataques de cibersegurança na nuvem e verifiquei quais laboratórios faltava eu terminar para poder receber o certificado do curso de CyberSecurity da Google Skills, porém os três laboratórios estavam com alguns erros que impediam o progresso da oficina. Dei um feedback com relação aos erros para a Google e agora aguardarei suas correções.** 
 
 ### Sexta-feira — 11/09
 - **14h – 16:30** → Realizar curso da Google
@@ -80,7 +80,7 @@
 
 ---
 
-*Última atualização: 14/09/2026*
+*Última atualização: 17/09/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
