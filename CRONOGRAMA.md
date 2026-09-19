@@ -1,19 +1,19 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **16/09/2026**  
+> Atualizado em: **18/09/2026**  
 > Semana: **14/09 → 18/09/2026**
 
 ---
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
 - [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Criar cronograma semanal
-- [] Estudar para as provas
+- [x] Entregar os relatórios das aulas
+- [x] Criar cronograma semanal
+- [x] Estudar para as provas
 
 ---
 
@@ -25,7 +25,7 @@
 | **Terça**    | Estudar para provas          | Estudar para provas                | Estudar para provas          | Estudar para provas        |    ✅    |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |  ✅      |
 | **Quinta**   | Realizar curso da Google     | Realizar curso da Google           | Realizar curso da Google     | Estudar para provas        |   ✅     |
-| **Sexta**    | Realizar curso da Google     | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Sexta**    | Realizar curso da Google     | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |    ✅    |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -56,18 +56,18 @@
 ### Sexta-feira — 11/09
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Faltei ao NPI, pois não estava muito bem.** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- [] Participar do LondrinenseTech e fazer o relatório
-- [] Participar do Pensamento Computacional e fazer o relatório
+- [x] Participar do LondrinenseTech e fazer o relatório
+- [x] Participar do Pensamento Computacional e fazer o relatório
 - [] Participar do Grupo de IA
-- [] Realizar curso da Google
-- [] Criar cronograma semanal
-- [] Revisar o que foi feito no final da semana
+- [x] Realizar curso da Google
+- [x] Criar cronograma semanal
+- [x] Revisar o que foi feito no final da semana
 - [] Planejar a próxima semana
 
 ---
@@ -80,7 +80,7 @@
 
 ---
 
-*Última atualização: 17/09/2026*
+*Última atualização: 18/09/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
