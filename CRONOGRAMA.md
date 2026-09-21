@@ -1,6 +1,94 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
+> Atualizado em: **21/09/2026**  
+> Semana: **21/09 → 25/09/2026**
+
+---
+
+## 🎯 Objetivos da Semana (foco na tarde)
+
+- [] Participar do LondrinenseTech (Segunda)
+- [] Participar do Pensamento Computacional (Quarta)
+- [] Participar do Grupo de IA (Sexta)
+- [] Entregar os relatórios das aulas
+- [] Criar cronograma semanal
+- [] Estudar para as provas
+
+---
+
+## 📆 Cronograma da Tarde (14h – 18h)
+
+| Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
+|--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
+| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |        |
+| **Terça**    | Estudar para provas          | Estudar para provas                | Estudar para provas          | Estudar para provas        |        |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
+| **Quinta**   | Realizar curso da Google     | Realizar curso da Google           | Realizar curso da Google     | Estudar para provas        |        |
+| **Sexta**    | Realizar curso da Google     | Realizar curso da Google           | Grupo de IA (início)         | Grupo de IA                |        |
+
+> **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
+
+---
+## 📝 Detalhamento Diário (14h – 18h)
+
+### Segunda-feira — 21/09
+- **14h – 15:45** → LondrinenseTech
+- **15:45 – 16:20** → Preparar o relatório da aula
+- **16:20 – 18h** → Criar cronograma semanal
+- **Notas: Hoje, participei do Londrinensetech, elaborei meu relatório para o portfólio, organizei meu cronograma semanal e revisei os conteúdos de álgebra para a possibilidade de eu ter ficado de exame.** 
+
+### Terça-feira — 22/09
+- **14h – 15h**  → Realizar Atividade do Marcelo
+- **15h – 18h** → Realizar curso da Google
+- **Notas:**
+
+### Quarta-feira — 23/09
+- **14h – 16h** → Pensamento Computacional
+- **16h – 16:20** → Realizar o relatório da aula
+- **16:20 – 18h** → Realizar curso da Google
+- **Notas:**
+- 
+### Quinta-feira — 24/09
+- **14h – 18h** → Realizar curso da Google
+- **Notas:** 
+
+### Sexta-feira — 25/09
+- **14h – 16:30** → Realizar curso da Google
+- **16:30 – 18h** → Grupo de IA
+- **Notas:** 
+
+---
+
+## ✅ Checklist da Semana
+
+- [] Participar do LondrinenseTech e fazer o relatório
+- [] Participar do Pensamento Computacional e fazer o relatório
+- [] Participar do Grupo de IA
+- [] Realizar curso da Google
+- [] Criar cronograma semanal
+- [] Revisar o que foi feito no final da semana
+- [] Planejar a próxima semana
+
+---
+
+## 📌 Observações
+
+- Relatórios devem ser feitos logo após as aulas (Segunda e Quarta)
+-  
+-  
+
+---
+
+*Última atualização: 21/09/2026*
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# NPI
+# 📅 Cronograma Semanal — Tarde (14h às 18h)
+
 > Atualizado em: **18/09/2026**  
 > Semana: **14/09 → 18/09/2026**
 
