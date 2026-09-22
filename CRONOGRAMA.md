@@ -41,7 +41,7 @@
 ### Terça-feira — 22/09
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas: **
+- **Notas: Hoje eu comecei a fazer uma pesquisa por artigos científicos para a atividade do grupo de IA da sexta-feira, onde eu teria que escolher 4 perguntas sobre o RAG e depois responder utilizando alguma fonte para comprovar a minha resposta.**
 
 ### Quarta-feira — 23/09
 - **14h – 16h** → Pensamento Computacional
