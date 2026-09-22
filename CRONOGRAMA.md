@@ -22,7 +22,7 @@
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅    |
-| **Terça**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Atividade do grupo de IA     | Atividade do grupo de IA   |        |
+| **Terça**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Atividade do grupo de IA     | Atividade do grupo de IA   |    🔄    |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
 | **Quinta**   | Atividade do grupo de IA     | Atividade do grupo de IA           | Atividade do grupo de IA     | Atividade do grupo de IA   |        |
 | **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
@@ -80,7 +80,7 @@
 
 ---
 
-*Última atualização: 21/09/2026*
+*Última atualização: 22/09/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
