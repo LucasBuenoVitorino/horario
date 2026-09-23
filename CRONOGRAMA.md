@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **22/09/2026**  
+> Atualizado em: **23/09/2026**  
 > Semana: **21/09 → 25/09/2026**
 
 ---
@@ -47,7 +47,7 @@
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje participei do Pensamento Computacional, finalizei o meu relatório e comecei a estruturar um ´projeto de simulação de RaG no Google Colab.**
 - 
 ### Quinta-feira — 24/09
 - **14h – 18h** → Realizar curso da Google
@@ -80,7 +80,7 @@
 
 ---
 
-*Última atualização: 22/09/2026*
+*Última atualização: 23/09/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
