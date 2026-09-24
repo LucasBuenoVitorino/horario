@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **23/09/2026**  
+> Atualizado em: **24/09/2026**  
 > Semana: **21/09 → 25/09/2026**
 
 ---
@@ -23,8 +23,8 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅    |
 | **Terça**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Atividade do grupo de IA     | Atividade do grupo de IA   |    🔄    |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
-| **Quinta**   | Atividade do grupo de IA     | Atividade do grupo de IA           | Atividade do grupo de IA     | Atividade do grupo de IA   |        |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
+| **Quinta**   | Atividade do grupo de IA     | Atividade do grupo de IA           | Atividade do grupo de IA     | Atividade do grupo de IA   |    ✅    |
 | **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -51,7 +51,7 @@
 - 
 ### Quinta-feira — 24/09
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje eu realizei algumas atividades do curso Aluno Tutor e procurei por artigos para finalizar a tarefa do grupo de IA da sexta-feira.** 
 
 ### Sexta-feira — 25/09
 - **14h – 16:30** → Realizar curso da Google
@@ -80,7 +80,7 @@
 
 ---
 
-*Última atualização: 23/09/2026*
+*Última atualização: 24/09/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
