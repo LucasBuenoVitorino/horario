@@ -8,12 +8,12 @@
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Criar cronograma semanal
-- [] Estudar para as provas
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
+- [❌] Participar do Grupo de IA (Sexta)
+- [x] Entregar os relatórios das aulas
+- [x] Criar cronograma semanal
+
 
 ---
 
@@ -25,7 +25,7 @@
 | **Terça**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Atividade do grupo de IA     | Atividade do grupo de IA   |    🔄    |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
 | **Quinta**   | Atividade do grupo de IA     | Atividade do grupo de IA           | Atividade do grupo de IA     | Atividade do grupo de IA   |    ✅    |
-| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |     ✅   |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -56,7 +56,7 @@
 ### Sexta-feira — 25/09
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu dei continuidade nas atividades do aluno tutor e comecei a produzir o meu projeto final.** 
 
 ---
 
@@ -80,7 +80,7 @@
 
 ---
 
-*Última atualização: 24/09/2026*
+*Última atualização: 25/09/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
