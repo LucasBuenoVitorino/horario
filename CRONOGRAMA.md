@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **28/09/2026**  
+> Atualizado em: **29/09/2026**  
 > Semana: **28/09 → 02/10/2026**
 
 ---
@@ -22,8 +22,8 @@
 
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
-| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |        |
-| **Terça**    | Curso Aluno Tutor            | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |        |
+| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |    ✅    |
+| **Terça**    | Curso Aluno Tutor            | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |    ✅    |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
 | **Quinta**   |  Curso Aluno Tutor           | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |        |
 | **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 28/09/2026*
+*Última atualização: 29/09/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
