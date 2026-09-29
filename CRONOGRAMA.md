@@ -42,7 +42,7 @@
 ### Terça-feira — 29/09
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje eu continuei desenvolvendo o meu projeto final do curso Aluno Tutor.**
 
 ### Quarta-feira — 30/09
 - **14h – 16h** → Pensamento Computacional
