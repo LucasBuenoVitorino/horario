@@ -1,18 +1,18 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **01/09/2026**  
+> Atualizado em: **02/09/2026**  
 > Semana: **28/09 → 02/10/2026**
 
 ---
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
 - [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Criar cronograma semanal
+- [x] Entregar os relatórios das aulas
+- [x] Criar cronograma semanal
 - [] curos Aluno Tutor
 
 
@@ -26,7 +26,7 @@
 | **Terça**    | Curso Aluno Tutor            | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |    ✅    |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |   ✅     |
 | **Quinta**   |  Curso Aluno Tutor           | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |    ✅    |
-| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |✅        |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -57,7 +57,7 @@
 ### Sexta-feira — 02/10
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu modifiquei uma implementação de RAG, fiz com que ela mostrasse a taxa de similaridade dos três resultados com maior nível de semelhança e dei continuidade ao meu projeto final do Aluno Tutor.** 
 
 ---
 
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 01/09/2026*
+*Última atualização: 02/09/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
