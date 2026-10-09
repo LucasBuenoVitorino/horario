@@ -9,12 +9,12 @@
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Criar cronograma semanal
-- [] curos Aluno Tutor
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do Grupo de IA (Sexta)
+- [x] Entregar os relatórios das aulas
+- [x] Criar cronograma semanal
+- [] curso Aluno Tutor
 
 
 ---
@@ -27,7 +27,7 @@
 | **Terça**    | Curso Aluno Tutor            | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |  ✅      |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |   ✅     |
 | **Quinta**   |  Curso Aluno Tutor           | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |  ✅      |
-| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |    ✅    |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -58,7 +58,7 @@
 ### Sexta-feira — 02/10
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu li um artigo que fala sobre a identidade autoral dos recursos desenvolvidos por meio das inteligências artificiais generativas, quais impactos a nova era da IA pode trazer e quem seria o "autor" das próximas inovações, e participei de discussões sobre a nossa atividade de pesquisa sobre RAG no grupo de IA de sexta-feira.** 
 
 ---
 
