@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **14/10/2026**  
+> Atualizado em: **16/10/2026**  
 > Semana: **12/10 → 16/10/2026**
 
 ---
@@ -52,7 +52,7 @@
 - 
 ### Quinta-feira — 01/10
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje eu finalizei duas atividades da faculdade uma de desenvolver um site utilizando apenas html e criar um diagrama de BPMN de algum software famoso.** 
 
 ### Sexta-feira — 02/10
 - **14h – 16:30** → Realizar curso da Google
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 14/10/2026*
+*Última atualização: 16/10/2026*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
