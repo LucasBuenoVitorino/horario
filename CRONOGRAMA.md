@@ -8,12 +8,12 @@
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Criar cronograma semanal
-- [] curso Aluno Tutor
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
+- [❌] Participar do Grupo de IA (Sexta)
+- [x] Entregar os relatórios das aulas
+- [x] Criar cronograma semanal
+- [x] curso Aluno Tutor
 
 
 ---
@@ -22,11 +22,11 @@
 
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
-| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |        |
-| **Terça**    | Curso Aluno Tutor            | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |        |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
-| **Quinta**   |  Curso Aluno Tutor           | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |        |
-| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ✅     |
+| **Terça**    | Curso Aluno Tutor            | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |   ✅     |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |  ✅      |
+| **Quinta**   |  Curso Aluno Tutor           | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |   ✅    |
+| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |    ✅    |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -57,7 +57,7 @@
 ### Sexta-feira — 02/10
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu finalizei o meu projeto final do Aluno Tutor e li um artigo falando sobre uma nova implementação de RAG desenvolvida para reduzir o consumo de GPU, Alucinações e aumentar a precisão da resposta: http://dx.doi.org/10.2139/ssrn.6242938.** 
 
 ---
 
