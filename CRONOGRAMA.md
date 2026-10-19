@@ -37,7 +37,7 @@
 - **14h – 15:45** → LondrinenseTech
 - **15:45 – 16:20** → Preparar o relatório da aula
 - **16:20 – 18h** → Criar cronograma semanal
-- **Notas:** 
+- **Notas: Hoje eu revisei o meu projeto final do aluno tutor e pesquisei por alguns conteúdos como modelos de embedding e rerank no livro Hands-On RAG for Production.** 
 
 ### Terça-feira — 29/09
 - **14h – 15h**  → Realizar Atividade do Marcelo
