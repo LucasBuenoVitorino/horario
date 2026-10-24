@@ -8,12 +8,12 @@
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Criar cronograma semanal
-- [] curso Aluno Tutor
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do Grupo de IA (Sexta)
+- [x] Entregar os relatórios das aulas
+- [x] Criar cronograma semanal
+- [x] curso Aluno Tutor
 
 
 ---
@@ -26,7 +26,7 @@
 | **Terça**    | Curso Aluno Tutor            | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |   ✅    |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
 | **Quinta**   |  Curso Aluno Tutor           | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |   ✅     |
-| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |   ✅     |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -57,7 +57,7 @@
 ### Sexta-feira — 02/10
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu finalizei o modulo 2 do curso: Fundamentos da computação do Google Cloud: noções básicas da computação em nuvem e participei do grupo de ia.** 
 
 ---
 
