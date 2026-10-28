@@ -24,7 +24,7 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ✅     |
 | **Terça**    | Curso Aluno Tutor            | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |    ✅    |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
 | **Quinta**   |  Curso Aluno Tutor           | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |        |
 | **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
 
@@ -48,7 +48,7 @@
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje participei do Pensamento Computacional, finalizei o meu relatório e realizei uma atividade de POO 2.**
 - 
 ### Quinta-feira — 01/10
 - **14h – 18h** → Realizar curso da Google
