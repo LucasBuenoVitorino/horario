@@ -1,19 +1,19 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **29/10/2026**  
+> Atualizado em: **30/10/2026**  
 > Semana: **26/10 → 30/10/2026**
 
 ---
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Criar cronograma semanal
-- [] curso Aluno Tutor
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do Grupo de IA (Sexta)
+- [x] Entregar os relatórios das aulas
+- [x] Criar cronograma semanal
+
 
 
 ---
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 29/10/2026*
+*Última atualização: 30/10/2026*
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
