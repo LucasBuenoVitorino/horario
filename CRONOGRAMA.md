@@ -42,7 +42,7 @@
 ### Terça-feira — 03/11
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje eu continuei o desenvolvimento da atividade 3 de Desenvolvimento Web.**
 
 ### Quarta-feira — 04/11
 - **14h – 16h** → Pensamento Computacional
