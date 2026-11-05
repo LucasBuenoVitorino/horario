@@ -52,7 +52,7 @@
 - 
 ### Quinta-feira — 05/11
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje eu realizei a atividade 4 de Desenvolvimento Web e finalizei a minha parte da atividade 3.** 
 
 ### Sexta-feira — 06/11
 - **14h – 16:30** → Realizar curso da Google
