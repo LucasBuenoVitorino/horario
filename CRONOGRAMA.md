@@ -1,18 +1,18 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **03/11/2026**  
+> Atualizado em: **06/11/2026**  
 > Semana: **02/10 → 06/10/2026**
 
 ---
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Criar cronograma semanal
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
+- [❌] Participar do Grupo de IA (Sexta)
+- [x] Entregar os relatórios das aulas
+- [x] Criar cronograma semanal
 
 
 
@@ -25,8 +25,8 @@
 | **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ❌     |
 | **Terça**    | Curso Aluno Tutor            | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |    ✅    |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
-| **Quinta**   |  Curso Aluno Tutor           | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |        |
-| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Quinta**   |  Curso Aluno Tutor           | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |    ✅    |
+| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |    ✅    |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -57,19 +57,19 @@
 ### Sexta-feira — 06/11
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu realizei os 4 primeiros módulos da primeira semana da trilha Salesforce (bootcamp) da TCS.** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- [] Participar do LondrinenseTech e fazer o relatório
-- [] Participar do Pensamento Computacional e fazer o relatório
-- [] Participar do Grupo de IA
-- [] Realizar curso da Google
-- [] Criar cronograma semanal
-- [] Revisar o que foi feito no final da semana
-- [] Planejar a próxima semana
+- [x] Participar do LondrinenseTech e fazer o relatório
+- [x] Participar do Pensamento Computacional e fazer o relatório
+- [❌] Participar do Grupo de IA
+- [x] Realizar curso bootcamp SalesForce
+- [x] Criar cronograma semanal
+- [x] Revisar o que foi feito no final da semana
+- [x] Planejar a próxima semana
 
 ---
 
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 03/11/2026*
+*Última atualização: 06/11/2026*
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
