@@ -22,11 +22,11 @@
 
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
-| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ❌     |
-| **Terça**    | Curso Aluno Tutor            | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |    ✅    |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |    ✅    |
-| **Quinta**   |  Curso Aluno Tutor           | Curso Aluno Tutor                  |  Curso Aluno Tutor           |  Curso Aluno Tutor         |    ✅    |
-| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |    ✅    |
+| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |        |
+| **Terça**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          |  Curso BootCamp SalesForce   |  Curso BootCamp SalesForce         |        |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
+| **Quinta**   |  Curso BootCamp SalesForce   | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    |  Curso BootCamp SalesForce         |        |
+| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -37,12 +37,12 @@
 - **14h – 15:45** → LondrinenseTech
 - **15:45 – 16:20** → Preparar o relatório da aula
 - **16:20 – 18h** → Criar cronograma semanal
-- **Notas:** 
+- **Notas: Ontem eu participei da formatura do LondrinenseTech das 10:00 até as 12:10; por conta disso, fui dispensado do NPI de hoje.** 
 
 ### Terça-feira — 10/11
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje eu participei da formatura do Pensamento Computacional das 14:00 às 16:30 e finalizei a atividade 5 de Desenvolvimento Web.**
 
 ### Quarta-feira — 11/11
 - **14h – 16h** → Pensamento Computacional
