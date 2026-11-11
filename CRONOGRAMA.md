@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **10/11/2026**  
+> Atualizado em: **11/11/2026**  
 > Semana: **09/11 → 13/11/2026**
 
 ---
@@ -48,7 +48,7 @@
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje eu realizei o curso: Personalizar um objeto do Salesforce do Bootcamp SalesForce.**
 - 
 ### Quinta-feira — 12/11
 - **14h – 18h** → Realizar curso da Google
@@ -81,7 +81,7 @@
 
 ---
 
-*Última atualização: 10/11/2026*
+*Última atualização: 11/11/2026*
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
