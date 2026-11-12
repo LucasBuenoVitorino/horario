@@ -22,10 +22,10 @@
 
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
-| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |        |
-| **Terça**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          |  Curso BootCamp SalesForce   |  Curso BootCamp SalesForce         |        |
-| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |        |
-| **Quinta**   |  Curso BootCamp SalesForce   | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    |  Curso BootCamp SalesForce         |        |
+| **Segunda**  | LondrinenseTech              | LondrinenseTech + Relatório        | Criar cronograma semanal     | Criar cronograma semanal   |   ✅     |
+| **Terça**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          |  Curso BootCamp SalesForce   |  Curso BootCamp SalesForce         |   ✅     |
+| **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |   ✅     |
+| **Quinta**   |  Curso BootCamp SalesForce   | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    |  Curso BootCamp SalesForce         |    ✅    |
 | **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -52,7 +52,7 @@
 - 
 ### Quinta-feira — 12/11
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje eu realizei o curso: Segurança de dados e participei de uma palestra sobre a indústria de desenvolvimento de jogos.** 
 
 ### Sexta-feira — 13/11
 - **14h – 16:30** → Realizar curso da Google
