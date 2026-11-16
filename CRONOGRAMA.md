@@ -1,6 +1,92 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
+> Atualizado em: **16/11/2026**  
+> Semana: **16/11 → 20/11/2026**
+
+---
+
+## 🎯 Objetivos da Semana (foco na tarde)
+
+
+- [❌] Participar do Grupo de IA (Sexta)
+
+- [] Criar cronograma semanal
+
+
+
+---
+
+## 📆 Cronograma da Tarde (14h – 18h)
+
+| Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
+|--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
+| **Segunda**  | Atividade do Matheuzinho     | Atividade do Matheuzinho           | Atividade do Matheuzinho     | Criar cronograma semanal   |    ✅    |
+| **Terça**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          |  Curso BootCamp SalesForce   |  Curso BootCamp SalesForce         |        |
+| **Quarta**   | Estudar para prova de POO 2  | Estudar para prova de POO 2        | Estudar para prova de POO 2  | Estudar para prova de POO 2  |        |
+| **Quinta**   |  Curso BootCamp SalesForce   | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    |  Curso BootCamp SalesForce         |        |
+| **Sexta**    | Feriado                      | Feriado                            | Feriado                      | Feriado                     |    ❌    |
+
+> **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
+
+---
+## 📝 Detalhamento Diário (14h – 18h)
+
+### Segunda-feira — 16/11
+- **14h – 15:45** → LondrinenseTech
+- **15:45 – 16:20** → Preparar o relatório da aula
+- **16:20 – 18h** → Criar cronograma semanal
+- **Notas: Hoje eu realizei a atividade de analise e projeto de algoritmos sobre algoritmos de ordenação(Merge Sort) e fiquei estudando o meu projeto para se eu tiver que apresentar.** 
+
+### Terça-feira — 17/11
+- **14h – 15h**  → Realizar Atividade do Marcelo
+- **15h – 18h** → Realizar curso da Google
+- **Notas:**
+
+### Quarta-feira — 18/11
+- **14h – 16h** → Pensamento Computacional
+- **16h – 16:20** → Realizar o relatório da aula
+- **16:20 – 18h** → Realizar curso da Google
+- **Notas:**
+- 
+### Quinta-feira — 19/11
+- **14h – 18h** → Realizar curso da Google
+- **Notas:** 
+
+### Sexta-feira — 20/11
+- **14h – 16:30** → Realizar curso da Google
+- **16:30 – 18h** → Grupo de IA
+- **Notas:.** 
+
+---
+
+## ✅ Checklist da Semana
+
+- [] Participar do Grupo de IA
+- [] Realizar curso bootcamp SalesForce
+- [] Criar cronograma semanal
+- [] Revisar o que foi feito no final da semana
+- [] Planejar a próxima semana
+
+---
+
+## 📌 Observações
+
+- Relatórios devem ser feitos logo após as aulas (Segunda e Quarta)
+-  
+-  
+
+---
+
+*Última atualização: 11/11/2026*
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# NPI
+# 📅 Cronograma Semanal — Tarde (14h às 18h)
+
 > Atualizado em: **11/11/2026**  
 > Semana: **09/11 → 13/11/2026**
 
@@ -37,7 +123,7 @@
 - **14h – 15:45** → LondrinenseTech
 - **15:45 – 16:20** → Preparar o relatório da aula
 - **16:20 – 18h** → Criar cronograma semanal
-- **Notas: Ontem eu participei da formatura do LondrinenseTech das 10:00 até as 12:10; por conta disso, fui dispensado do NPI de hoje.** 
+- **Notas: Hoje eu participei da formatura do LondrinenseTech das 10:00 até as 12:10; por conta disso, fui dispensado do NPI de hoje.** 
 
 ### Terça-feira — 10/11
 - **14h – 15h**  → Realizar Atividade do Marcelo
