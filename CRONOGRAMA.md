@@ -8,11 +8,11 @@
 
 ## 🎯 Objetivos da Semana (foco na tarde)
 
-- [] Participar do LondrinenseTech (Segunda)
-- [] Participar do Pensamento Computacional (Quarta)
-- [] Participar do Grupo de IA (Sexta)
-- [] Entregar os relatórios das aulas
-- [] Criar cronograma semanal
+- [x] Participar do LondrinenseTech (Segunda)
+- [x] Participar do Pensamento Computacional (Quarta)
+- [x] Participar do Grupo de IA (Sexta)
+- [x] Entregar os relatórios das aulas
+- [x] Criar cronograma semanal
 
 
 
@@ -26,7 +26,7 @@
 | **Terça**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          |  Curso BootCamp SalesForce   |  Curso BootCamp SalesForce         |   ✅     |
 | **Quarta**   | Pensamento Computacional     | Pensamento Computacional           | Relatório                    |  Realizar curso da Google  |   ✅     |
 | **Quinta**   |  Curso BootCamp SalesForce   | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    |  Curso BootCamp SalesForce         |    ✅    |
-| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |        |
+| **Sexta**    | Atividade do grupo de IA     | Atividade do grupo de IA           | Grupo de IA (início)         | Grupo de IA                |   ✅     |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
 
@@ -57,19 +57,19 @@
 ### Sexta-feira — 13/11
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:** 
+- **Notas: Hoje eu realizei os cursos: Noções básicas de segurança e Gerenciamento de usuários da Trailhead Salesforce e participei do penúltimo encontro do grupo de IA.** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- [] Participar da formatura do LondrinenseTech e fazer o relatório
-- [] Participar da formatura do Pensamento Computacional e fazer o relatório
-- [] Participar do Grupo de IA
-- [] Realizar curso bootcamp SalesForce
-- [] Criar cronograma semanal
-- [] Revisar o que foi feito no final da semana
-- [] Planejar a próxima semana
+- [x] Participar da formatura do LondrinenseTech e fazer o relatório
+- [x] Participar da formatura do Pensamento Computacional e fazer o relatório
+- [x] Participar do Grupo de IA
+- [x] Realizar curso bootcamp SalesForce
+- [x] Criar cronograma semanal
+- [x] Revisar o que foi feito no final da semana
+- [x] Planejar a próxima semana
 
 ---
 
