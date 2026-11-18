@@ -22,8 +22,8 @@
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | Atividade do Matheuzinho     | Atividade do Matheuzinho           | Atividade do Matheuzinho     | Criar cronograma semanal   |    ✅    |
-| **Terça**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          |  Curso BootCamp SalesForce   |  Curso BootCamp SalesForce         |        |
-| **Quarta**   | Estudar para prova de POO 2  | Estudar para prova de POO 2        | Estudar para prova de POO 2  | Estudar para prova de POO 2  |        |
+| **Terça**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          |  Curso BootCamp SalesForce   |  Curso BootCamp SalesForce         |   ❌     |
+| **Quarta**   | Estudar para prova de POO 2  | Estudar para prova de POO 2        | Estudar para prova de POO 2  | Estudar para prova de POO 2  |    ✅    |
 | **Quinta**   |  Curso BootCamp SalesForce   | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    |  Curso BootCamp SalesForce         |        |
 | **Sexta**    | Feriado                      | Feriado                            | Feriado                      | Feriado                     |    ❌    |
 
@@ -41,13 +41,13 @@
 ### Terça-feira — 17/11
 - **14h – 15h**  → Realizar Atividade do Marcelo
 - **15h – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje eu não pude ir ao NPI por conta de um compromisso.**
 
 ### Quarta-feira — 18/11
 - **14h – 16h** → Pensamento Computacional
 - **16h – 16:20** → Realizar o relatório da aula
 - **16:20 – 18h** → Realizar curso da Google
-- **Notas:**
+- **Notas: Hoje eu realizei uma atividade de revisão para a prova de POO 2 e estudei um pouco sobre coleções, genericos e enumeradores.**
 - 
 ### Quinta-feira — 19/11
 - **14h – 18h** → Realizar curso da Google
