@@ -1,6 +1,82 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
+> Atualizado em: **23/11/2026**  
+> Semana: **23/11 → 27/11/2026**
+
+---
+
+## 🎯 Objetivos da Semana (foco na tarde)
+
+
+- [] Participar do Grupo de IA (Sexta)
+
+- [x] Criar cronograma semanal
+
+
+
+---
+
+## 📆 Cronograma da Tarde (14h – 18h)
+
+| Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
+|--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
+| **Segunda**  | Estudar para as provas       | Estudar para as provas             | Estudar para as provas       | Criar cronograma semanal   |        |
+| **Terça**    | Estudar para as provas       |  Estudar para as provas            |  Estudar para as provas      |   Estudar para as provas          |        |
+| **Quarta**   | Curso BootCamp SalesForce    |Curso BootCamp SalesForce           | Curso BootCamp SalesForce    | Curso BootCamp SalesForce  |        |
+| **Quinta**   |  Estudar para as provas      | Estudar para as provas             | Estudar para as provas       |  Estudar para as provas         |        |
+| **Sexta**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    | Grupo de IA                     |        |
+
+> **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
+
+---
+## 📝 Detalhamento Diário (14h – 18h)
+
+### Segunda-feira — 23/11
+- **14h – 15:45** → LondrinenseTech
+- **15:45 – 16:20** → Preparar o relatório da aula
+- **16:20 – 18h** → Criar cronograma semanal
+- **Notas:** 
+
+### Terça-feira — 24/11
+- **14h – 15h**  → Realizar Atividade do Marcelo
+- **15h – 18h** → Realizar curso da Google
+- **Notas:**
+
+### Quarta-feira — 25/11
+- **14h – 16h** → Pensamento Computacional
+- **16h – 16:20** → Realizar o relatório da aula
+- **16:20 – 18h** → Realizar curso da Google
+- **Notas:**
+- 
+### Quinta-feira — 26/11
+- **14h – 18h** → Realizar curso da Google
+- **Notas:** 
+
+### Sexta-feira — 27/11
+- **14h – 16:30** → Realizar curso da Google
+- **16:30 – 18h** → Grupo de IA
+- **Notas:** 
+
+---
+
+## ✅ Checklist da Semana
+
+- [] Participar do Grupo de IA
+- [] Realizar curso bootcamp SalesForce
+- [] Criar cronograma semanal
+- [] Revisar o que foi feito no final da semana
+- [] Planejar a próxima semana
+
+---
+
+*Última atualização: 23/11/2026*
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+# NPI
+# 📅 Cronograma Semanal — Tarde (14h às 18h)
+
 > Atualizado em: **16/11/2026**  
 > Semana: **16/11 → 20/11/2026**
 
@@ -11,7 +87,7 @@
 
 - [❌] Participar do Grupo de IA (Sexta)
 
-- [] Criar cronograma semanal
+- [x] Criar cronograma semanal
 
 
 
@@ -24,7 +100,7 @@
 | **Segunda**  | Atividade do Matheuzinho     | Atividade do Matheuzinho           | Atividade do Matheuzinho     | Criar cronograma semanal   |    ✅    |
 | **Terça**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          |  Curso BootCamp SalesForce   |  Curso BootCamp SalesForce         |   ❌     |
 | **Quarta**   | Estudar para prova de POO 2  | Estudar para prova de POO 2        | Estudar para prova de POO 2  | Estudar para prova de POO 2  |    ✅    |
-| **Quinta**   |  Curso BootCamp SalesForce   | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    |  Curso BootCamp SalesForce         |        |
+| **Quinta**   |  Curso BootCamp SalesForce   | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    |  Curso BootCamp SalesForce         |    ❌    |
 | **Sexta**    | Feriado                      | Feriado                            | Feriado                      | Feriado                     |    ❌    |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -51,22 +127,22 @@
 - 
 ### Quinta-feira — 19/11
 - **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **Notas: Hoje eu não pude ir ao NPI por conta de um compromisso.** 
 
 ### Sexta-feira — 20/11
 - **14h – 16:30** → Realizar curso da Google
 - **16:30 – 18h** → Grupo de IA
-- **Notas:.** 
+- **Notas: Feriado.** 
 
 ---
 
 ## ✅ Checklist da Semana
 
-- [] Participar do Grupo de IA
-- [] Realizar curso bootcamp SalesForce
-- [] Criar cronograma semanal
-- [] Revisar o que foi feito no final da semana
-- [] Planejar a próxima semana
+- [❌] Participar do Grupo de IA
+- [x] Realizar curso bootcamp SalesForce
+- [x] Criar cronograma semanal
+- [x] Revisar o que foi feito no final da semana
+- [x] Planejar a próxima semana
 
 ---
 
