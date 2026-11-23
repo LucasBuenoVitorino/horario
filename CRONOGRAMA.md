@@ -21,7 +21,7 @@
 
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
-| **Segunda**  | Estudar para as provas       | Estudar para as provas             | Estudar para as provas       | Criar cronograma semanal   |        |
+| **Segunda**  | Estudar para as provas       | Estudar para as provas             | Estudar para as provas       | Criar cronograma semanal   |    ✅    |
 | **Terça**    | Estudar para as provas       |  Estudar para as provas            |  Estudar para as provas      |   Estudar para as provas          |        |
 | **Quarta**   | Curso BootCamp SalesForce    |Curso BootCamp SalesForce           | Curso BootCamp SalesForce    | Curso BootCamp SalesForce  |        |
 | **Quinta**   |  Estudar para as provas      | Estudar para as provas             | Estudar para as provas       |  Estudar para as provas         |        |
@@ -36,7 +36,7 @@
 - **14h – 15:45** → LondrinenseTech
 - **15:45 – 16:20** → Preparar o relatório da aula
 - **16:20 – 18h** → Criar cronograma semanal
-- **Notas:** 
+- **Notas: Hoje eu estudei para a prova de recursividade, introdução à árvore binária, algoritmos de busca e ordenação.** 
 
 ### Terça-feira — 24/11
 - **14h – 15h**  → Realizar Atividade do Marcelo
