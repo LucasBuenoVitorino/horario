@@ -22,7 +22,7 @@
 | Dia          | 14h – 15h                    | 15h – 16h                          | 16h – 17h                    | 17h – 18h                  | Status |
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | Estudar para as provas       | Estudar para as provas             | Estudar para as provas       | Criar cronograma semanal   |    ✅    |
-| **Terça**    | Estudar para as provas       |  Estudar para as provas            |  Estudar para as provas      |   Estudar para as provas          |        |
+| **Terça**    | Estudar para as provas       |  Estudar para as provas            |  Estudar para as provas      |   Estudar para as provas          |   ✅     |
 | **Quarta**   | Curso BootCamp SalesForce    |Curso BootCamp SalesForce           | Curso BootCamp SalesForce    | Curso BootCamp SalesForce  |        |
 | **Quinta**   |  Estudar para as provas      | Estudar para as provas             | Estudar para as provas       |  Estudar para as provas         |        |
 | **Sexta**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    | Grupo de IA                     |        |
@@ -39,9 +39,9 @@
 - **Notas: Hoje eu estudei para a prova de recursividade, introdução à árvore binária, algoritmos de busca e ordenação.** 
 
 ### Terça-feira — 24/11
-- **14h – 15h**  → Realizar Atividade do Marcelo
-- **15h – 18h** → Realizar curso da Google
-- **Notas:**
+- **08h – 10h**  → Participar do primeiro dia das palestras da ELI SUMIIT
+- **10h – 12h** → Estudos para a prova teórica de POO 2
+- **Notas: Hoje eu participei das palestras do primeiro dia do ELI SUMIIT realizado no auditório da UniFil e estudei para a prova teórica de POO 2.**
 
 ### Quarta-feira — 25/11
 - **14h – 16h** → Pensamento Computacional
