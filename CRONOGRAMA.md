@@ -1,7 +1,7 @@
 # NPI
 # 📅 Cronograma Semanal — Tarde (14h às 18h)
 
-> Atualizado em: **23/11/2026**  
+> Atualizado em: **26/11/2026**  
 > Semana: **23/11 → 27/11/2026**
 
 ---
@@ -23,8 +23,8 @@
 |--------------|------------------------------|------------------------------------|------------------------------|----------------------------|--------|
 | **Segunda**  | Estudar para as provas       | Estudar para as provas             | Estudar para as provas       | Criar cronograma semanal   |    ✅    |
 | **Terça**    | Estudar para as provas       |  Estudar para as provas            |  Estudar para as provas      |   Estudar para as provas          |   ✅     |
-| **Quarta**   | Curso BootCamp SalesForce    |Curso BootCamp SalesForce           | Curso BootCamp SalesForce    | Curso BootCamp SalesForce  |        |
-| **Quinta**   |  Estudar para as provas      | Estudar para as provas             | Estudar para as provas       |  Estudar para as provas         |        |
+| **Quarta**   | Curso BootCamp SalesForce    |Curso BootCamp SalesForce           | Curso BootCamp SalesForce    | Curso BootCamp SalesForce  |    ✅    |
+| **Quinta**   |  Estudar para as provas      | Estudar para as provas             | Estudar para as provas       |  Estudar para as provas         |    ✅    |
 | **Sexta**    | Curso BootCamp SalesForce    | Curso BootCamp SalesForce          | Curso BootCamp SalesForce    | Grupo de IA                     |        |
 
 > **Legenda:** ⬜ Planejado &nbsp;&nbsp; 🔄 Em andamento &nbsp;&nbsp; ✅ Concluído &nbsp;&nbsp; ❌ Cancelado
@@ -44,14 +44,14 @@
 - **Notas: Hoje eu participei das palestras do primeiro dia do ELI SUMIIT realizado no auditório da UniFil e estudei para a prova teórica de POO 2.**
 
 ### Quarta-feira — 25/11
-- **14h – 16h** → Pensamento Computacional
-- **16h – 16:20** → Realizar o relatório da aula
-- **16:20 – 18h** → Realizar curso da Google
-- **Notas:**
+- **08h – 10h** → Participar do primeiro dia das palestras da ELI SUMIIT
+- **10h – 12h** → finalizar trabalho final de Desenvolvimento Web
+- **Notas: Hoje eu participei das palestras do primeiro dia do ELI SUMIIT realizado no auditório da UniFil e finalizei o trabalho final da Renata.**
 - 
 ### Quinta-feira — 26/11
-- **14h – 18h** → Realizar curso da Google
-- **Notas:** 
+- **08h – 10h** → Participar do primeiro dia das palestras da ELI SUMIIT
+- **10h – 12h** → estudar para as provas
+- **Notas: Hoje eu participei das palestras do primeiro dia do ELI SUMIIT realizado no auditório da UniFil e revisei os conteúdos da prova da Renata e do Matheuzinho.** 
 
 ### Sexta-feira — 27/11
 - **14h – 16:30** → Realizar curso da Google
@@ -70,7 +70,7 @@
 
 ---
 
-*Última atualização: 23/11/2026*
+*Última atualização: 26/11/2026*
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
